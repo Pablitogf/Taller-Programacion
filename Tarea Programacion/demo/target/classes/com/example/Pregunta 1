@@ -1,0 +1,11 @@
+add(): El método Add añade un elemento de datos a un paquete.
+
+remove(): Suprime un elemento de un paquete.
+
+get():  se encarga de mostrar un valor a una propiedad o atributo de un objeto.
+
+set():se encarga de darle un valor a una propiedad o atributo de un objeto.
+
+size():Lo que hace es contar el número de elementos de un array.
+
+isEmpty(): Devuelve el valor 1 (true) si hay un campo vacío; de lo contrario, devuelve el valor 0 (false).
